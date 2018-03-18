@@ -1,4 +1,4 @@
-package bootwildfly.model;
+package poligon.model;
 
 public class Question {
 
